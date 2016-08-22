@@ -27,8 +27,8 @@ $(document).ready(function(){
 });
 </script>
 
-<!-- Use this to create a quick and easy jump anchor and update in button to #name -->
+<!-- This is the code for your anchor where you want people to land. Quick and easy. -->
 <a name="learn"></a>
 
-<!-- Use this div ID for smooth scrolling -->
+<!-- This is the code for your anchor if you want smooth scrolling -->
 <div class="main" id="learn">
