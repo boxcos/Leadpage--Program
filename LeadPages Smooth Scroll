@@ -27,8 +27,8 @@ $(document).ready(function(){
 });
 </script>
 
-<!-- This is the code for your anchor where you want people to land. Quick and easy. -->
+<!-- This is the code for your anchor where you want people to land. Quick and easy. Do not paste with code above -->
 <a name="learn"></a>
 
-<!-- This is the code for your anchor if you want smooth scrolling -->
+<!-- This is the code for your anchor if you want smooth scrolling. Do not paste with code above -->
 <div class="main" id="learn">
